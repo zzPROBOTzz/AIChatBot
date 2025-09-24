@@ -1,0 +1,28 @@
+# Android/Gradle
+.gradle/
+/local.properties
+/.idea/
+.DS_Store
+/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+app/build/
+
+# Keystores
+*.jks
+*.keystore
+
+# Firebase/Google Services
+app/google-services.json
+
+# Logs
+*.log
+
+# VSCode/Cursor
+.vscode/
+.cursor/
+
+# Misc
+*.iml
+*/out/
