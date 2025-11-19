@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
 		Button getStarted = findViewById(R.id.button_get_started);
 		if (getStarted != null) {
 			getStarted.setOnClickListener(v -> {
-				Intent intent = new Intent(MainActivity.this, OnboardingActivity.class);
+				Intent intent = new Intent(MainActivity.this, HomeActivity.class);
 				startActivity(intent);
 			});
 		}

@@ -13,9 +13,9 @@
         android:roundIcon="@drawable/logo"
         android:supportsRtl="true"
         android:theme="@style/Theme.AiChatBot">
+        <activity android:name=".HomeActivity" />
         <activity android:name=".NotificationsActivity" />
         <activity android:name=".DiscoverActivity" />
-        <activity android:name=".OnboardingActivity" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
