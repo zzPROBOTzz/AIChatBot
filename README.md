@@ -1,4 +1,6 @@
 # AI ChatBot (Android)
+<img width="612" height="344" alt="image" src="https://github.com/user-attachments/assets/d405148a-edac-4989-b857-d724d8318749" />
+
 
 Android app (Java) with Welcome, Onboarding, Discover, and Notifications screens. Uses Firebase Authentication (email/password).
 
